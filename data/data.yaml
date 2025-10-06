@@ -1,0 +1,5 @@
+train: processed_data/images/train
+val: processed_data/images/val
+test: processed_data/images/test
+nc: 2
+names: ['crop', 'weed']
